@@ -1,0 +1,23 @@
+{
+  "name": "Classpro1",
+  "version": "0.1.0",
+  "description": "A project",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "Amod Shinde",
+  "license": "ISC",
+    "dependencies":{
+    "express":"^4.10.7",
+         "hbs": "^2.8.0",
+        "body-parser":"^1.10.1",
+        "path":"^0.11.14"
+    }
+}
